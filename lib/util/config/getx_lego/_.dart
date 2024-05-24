@@ -4,9 +4,7 @@ import 'package:flutter/material.dart';
 // import '../../../main.dart';
 // import '../../_/shared_params/_/material_app.dart';
 
-void setGetXPathUrlStrategy() {
-  // if you want to use hash urls, need to uncomment the import 'package:flutter_web_plugins/flutter_web_plugins.dart';
-  // and uncomment the next line
+void setBeamerPathUrlStrategy() {
+  // if you want to not use hash urls, uncomment the next line
   // setUrlStrategy(PathUrlStrategy());
-
 }
