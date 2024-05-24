@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/getx_lego.svg)](https://pub.dartlang.org/packages/getx_lego)
 
 # getx_lego
-description here
+apply getx in flutter
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -15,6 +15,3 @@ lego create
 ```bash
 lego add getx_lego
 ```
-
-## Usage
-Usage here

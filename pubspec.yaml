@@ -1,7 +1,7 @@
 name: getx_lego
-description: "lego is all you need"
+description: "apply getx in flutter with lego project"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/getx_lego
 
 version: 1.0.1
 
