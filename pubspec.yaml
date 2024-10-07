@@ -3,7 +3,7 @@ description: "apply getx in flutter with lego project"
 #publish_to: 'none'
 repository: https://github.com/flutter-lego/getx_lego
 
-version: 1.0.3
+version: 1.0.4
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
