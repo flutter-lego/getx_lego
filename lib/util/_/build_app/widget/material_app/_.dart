@@ -2,10 +2,8 @@ import 'package:flutter/material.dart';
 import '../../../../../main.dart';
 
 import '../../../shared_params/_/material_app.dart';
-import 'bot_toast_lego/_.dart';
 
 Widget materialAppInsideBuilder(BuildContext context, Widget? child) {
-  child = coverBotToastLego(context, child!);
 
   return child!;
 }
