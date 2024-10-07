@@ -8,7 +8,7 @@ import '../../../widget/material_app/_.dart';
 
 @ReadyBeforeRunApp(index: 1.0)
 Future<void> readyForGetxLego() async {
-  setGetXPathUrlStrategy();
+  // setGetXPathUrlStrategy();
 
   currentMaterialApp = GetMaterialApp(
     localizationsDelegates: MaterialAppParams.localizationsDelegates,
